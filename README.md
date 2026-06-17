@@ -35,7 +35,7 @@
 
 ### 3.2. Chạy kịch bản qua dòng lệnh (Non-GUI Mode)
 * **Mô tả:** Thực thi kịch bản bằng PowerShell để tối ưu tài nguyên phần cứng, xuất báo cáo tổng hợp ra file định dạng `.csv`.
-* **Câu lệnh sử dụng:** ```powershell```
+* **Câu lệnh sử dụng:** ```powershell
   .\jmeter.bat -n -t "View Results Tree.jmx" -l ketqua_test.csv
 
 <img width="1919" height="482" alt="image" src="https://github.com/user-attachments/assets/28fca5e0-4971-46c0-be6e-88980db86fcb" />
